@@ -1,6 +1,4 @@
-# Digit Recognition WebApp, PyTorch, Flask
 
-**Demo Site : https://digit-recog-torch.uc.r.appspot.com/**
 
 ![Digit Recognition](./demo.gif)
 
@@ -32,5 +30,5 @@
 - #### Training Model
   cpu training: `python3 train.py`
 
-  gpu training: `python3 train.py --use_gpu` (enabled when gpu and cuda is available)
+  gpu training: `python3 train.py --use_gpu`
 
